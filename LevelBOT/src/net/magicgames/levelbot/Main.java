@@ -20,7 +20,7 @@ public class Main {
 		}
 		
 		DefaultShardManagerBuilder build = new DefaultShardManagerBuilder();
-		build.setToken("NjI2NDM2MzQwMzc2MTQxODM1.XjxqXg.Ktz_0mi5ZOCgxq7p-BfzGa1dFkU");
+		build.setToken("ZENSIERT");
 		build.addEventListeners(new EventListener());
 
 		
